@@ -17,7 +17,7 @@ To help deliver a fast and reliable software system we need to analyze performan
 
 This repository will consist of following items.
 1. JMeter recorded sample for understanding basics of recording.
-2. Loadtest result.
+2. Loadtest Analysis.
 3. CI/CD Pipeline.
 4. Integrating JMeter with Jenkins/Blazemeter.
 
