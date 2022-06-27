@@ -16,8 +16,15 @@ To help deliver a fast and reliable software system we need to analyze performan
 <h1><b>About Repository:</b></h1>
 
 This repository will consist of following items.
-1. JMeter recorded sample for understanding basics of recording.
-2. Loadtest Analysis.
-3. CI/CD Pipeline.
-4. Integrating JMeter with Jenkins/Blazemeter.
+1. JMeter Basics
+2. Performance Analysis Samples
+3. Performance test for SaaS applications.
+4. Building a SaaS model to analyze a performance test.
+
+<h1><b>How to use this repository?</b></h1>
+
+1. Each and every branch will consist of Readme.md file to describe the intention of branch.
+2. Master Branch will consist of JMeter Basics file.
+
+
 
