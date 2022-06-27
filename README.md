@@ -13,3 +13,11 @@ Download: https://jmeter.apache.org/download_jmeter.cgi
 
 To help deliver a fast and reliable software system we need to analyze performance of the system. Performance analysis methodology consumes multiple aspects like load testing, stress testing, volume testing etc..It is used to improve user eperience to any web, mobile or desktop applications. Metrics of performance analysis of a software system are described and represented in terms of numeric values.
 
+<h1><b>About Repository:</b></h1>
+
+This repository will consist of following items.
+1. JMeter recorded sample for understanding basics of recording.
+2. Loadtest result.
+3. CI/CD Pipeline.
+4. Integrating JMeter with Jenkins/Blazemeter.
+
