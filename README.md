@@ -43,13 +43,13 @@ This repository will consist of following items.
 
 <h1><b>Execution Order of Test Elements</b></h1>
 
-# Configuration elements
-# Pre-Processors
-# Timers
-# Sampler
-# Post-Processors (unless SampleResult is null)
-# Assertions (unless SampleResult is null)
-# Listeners (unless SampleResult is null)
+1. Configuration elements
+2. Pre-Processors
+3. Timers
+4. Sampler
+5. Post-Processors (unless SampleResult is null)
+6. Assertions (unless SampleResult is null)
+7. Listeners (unless SampleResult is null)
 
 
 
