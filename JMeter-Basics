@@ -1,0 +1,24 @@
+<h1><b>Elements of JMeter</b></h1>
+
+1. Test Plan: The element which is the container of running tests. This will consist the execution order of the performance testing.
+2. Thread Group: The thread group elements control the number of threads JMeter will use during the test.
+3. Controllers: JMeter has two types of controllers. Samplers and Logic Controller.
+4. Samplers: Samplers allow JMeter to send specific types of requests to a server.
+5. Logic Controllers: Logic Controllers control the order of processing of Samplers in a Thread.
+6. Test Fragments: A Test Fragment is a special type of element placed at the same level as the Thread Group element.
+7. Listeners: Listeners let you view the results of Samplers in the form of tables, graphs, trees, or simple text in some log files.
+8. Timers: Timer element allows to define a period to wait between each request.
+9. Assertions: Using assertions it can be proved that the application is returning the correct data.
+10. Configuration Elements: They are used to add or modify requests made by Samplers.
+11. Pre-Processors: A pre-processor element is something that runs just before a sampler executes. Ideally, to extract value to be used in subsequent requests.
+12. Post-Proceesors: A post-processor executes after a sampler finishes its execution.
+
+<h1><b>Execution Order of Test Elements</b></h1>
+
+# Configuration elements
+# Pre-Processors
+# Timers
+# Sampler
+# Post-Processors (unless SampleResult is null)
+# Assertions (unless SampleResult is null)
+# Listeners (unless SampleResult is null)
