@@ -1,6 +1,6 @@
 # Performance-Testing-JMeter-5.4.3
 
-# Introduction:
+
 
 JMeter is an open source Java based software application
 which is used to test performance, functionality and load
