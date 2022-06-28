@@ -24,7 +24,7 @@ This repository will consist of following items.
 <h1><b>How to use this repository?</b></h1>
 
 1. Each and every branch will consist of Readme.md file to describe the intention of branch.
-2. Master Branch will consist of JMeter Basics file.
+2. Master Branch will consist of JMeter Basics README.md file.
 
 <h1><b>Elements of JMeter</b></h1>
 
